@@ -6,10 +6,10 @@ Revise o conteúdo, as citações, as referências e a formatação antes da ent
 
 ## Identificação
 
-* Título do artigo: `\[A influência dos princípios de UX na usabilidade e na satisfação dos usuários de redes sociais]`
-* Versão revisada: `\[1.0]`
-* Data: `\[06/10/2026]`
-* Responsável pela conferência final: `\[Guilherme de Oliveira SIlva]`
+* Título do artigo: `A influência dos princípios de UX na usabilidade e na satisfação dos usuários de redes sociais`
+* Versão revisada: `1.0`
+* Data: `06/10/2026`
+* Responsável pela conferência final: `Guilherme de Oliveira Silva`
 
 ## Revisão científica
 
@@ -46,25 +46,15 @@ Revise o conteúdo, as citações, as referências e a formatação antes da ent
 
 |Seção|Problema encontrado|Correção realizada|Responsável|
 |-|-|-|-|
-|`\[preencher]`|`\[preencher]`|`\[preencher]`|`\[nome]`|
+|`Introdução`|`Texto ainda estava apenas como campo de preenchimento`|`Redação do contexto, problema, justificativa e objetivo`|`Guilherme de Oliveira`|
+|`Metodologia`|`Não havia descrição do processo de revisão`|`Inclusão do tipo de pesquisa, fontes analisadas, período e forma de análise, sem inventar dados`|`Guilherme de Oliveira`|
+|`Revisão da literatura`|`Eixos estavam apenas como roteiro`|`Desenvolvimento dos eixos de UX, usabilidade e satisfação`|`Guilherme de Oliveira`|
+|`Síntese crítica`|`Existia apenas uma síntese provisória`|`Ampliação da comparação entre os estudos, convergências, divergências e lacunas`|`Guilherme de Oliveira`|
+|`Considerações finais`|`Campo estava vazio`|`Inclusão da resposta ao problema, limitações e sugestões para pesquisas futuras`|`Guilherme de Oliveira`|
+|`Resumo`|`Campo estava vazio`|`Elaborado após a redação do artigo`|`Guilherme de Oliveira`|
+|`Referências`|`Campo estava vazio`|`Inclusão das referências efetivamente utilizadas no texto`|`Guilherme de Oliveira`|
+|`Fichamento`|`Informações estavam generalizadas e atribuídas ao artigo do grupo`|`Conferência dos objetivos e métodos dos artigos utilizados`|`Guilherme de Oliveira`|
+|`Normalização`|`Checklist estava sem preenchimento`|`Revisão e marcação dos itens já conferidos`|`Guilherme de Oliveira`|
 
-`\ Seção     Problema encontrado        Correção realizada                 Responsável`\
 
-`\ [Introdução]	[Texto ainda estava apenas como campo de preenchimento]	[Redação do contexto, problema, justificativa e objetivo]	[Guilherme de Oliveira]`\
-
-`\[Metodologia]	[Não havia descrição do processo de revisão]	[Inclusão do tipo de pesquisa, fontes analisadas, período e forma de análise, sem inventar dados]	[Guilherme de Oliveira]`\
-
-`\[Revisão da literatura] [Eixos estavam apenas como roteiro]   [Desenvolvimento dos eixos de UX, usabilidade e satisfação]    [Guilherme de Oliveira]`\
-
-`\[Síntese crítica]	[Existia apenas uma síntese provisória]	[Ampliação da comparação entre os estudos, convergências, divergências e lacunas]	[Guilherme de Oliveira]`\
-
-`\[Considerações finais]	[Campo estava vazio]	[Inclusão da resposta ao problema, limitações e sugestões para pesquisas futuras]	[Guilherme de Oliveira]`\
-
-`\[Resumo]	[Campo estava vazio]	[Elaborado após a redação do artigo]	[Guilherme de Oliveira]`\
-
-`\[Referências]	[Campo estava vazio]	[Inclusão das referências efetivamente utilizadas no texto]	[Guilherme de Oliveira]`\
-
-`\[Fichamento]	[Informações estavam generalizadas e atribuídas ao artigo do grupo]	[Conferência dos objetivos e métodos dos artigos utilizados]	[Guilherme de Oliveira]`\
-
-`\[Normalização]	[Checklist estava sem preenchimento]	[Revisão e marcação dos itens já conferidos][Guilherme de Oliveira] `\
 

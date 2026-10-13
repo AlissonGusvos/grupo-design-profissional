@@ -13,7 +13,7 @@ Obrigatoriedade de artigos com no máximo 5 anos, ou seja, de publicação entre
 * Referência completa: `ALENCAR, Danila Fernandes; MARTINS, Paulo George Miranda; RODAS, Cecílio Merlotti; SANT'ANA, Ricardo César Gonçalves. Experiência do usuário: análise de usabilidade do ambiente virtual de aprendizagem e-Campo (EMBRAPA). RDBCI: Revista Digital de Biblioteconomia e Ciência da Informação, v. 21, 2023, e023007`
 * DOI ou URL: `https://www.scielo.br/j/rdbci/a/bkwg9rz3HqvWF7znmh9G7XN/?lang=pt`
 * Base de origem: `SciELO`
-* Leitor responsável: `\[preencher]`
+* Leitor responsável: `Alisson Gustavo Fernandes Gonçalves`
 * Data da leitura: `05/10/2026`
 
 ### Artigo 2
@@ -21,7 +21,7 @@ Obrigatoriedade de artigos com no máximo 5 anos, ou seja, de publicação entre
 * Referência completa: `SILVEIRA, Murilo Mauro. A experiência do Usuário (UX) em Serviços Informacionais: dimensões, tecnologias e aplicações. Encontros Bibli: Revista Eletrônica de Biblioteconomia e Ciência da Informação, Florianópolis, v. 30, p. 1–22, 2025`
 * DOI ou URL: `https://periodicos.ufsc.br/index.php/eb/article/view/103413`
 * Base de origem: `Portal de Periódicos da Universidade Federal de Santa Catarina (UFSC)`
-* Leitor responsável: `\[preencher]`
+* Leitor responsável: `Alisson Gustavo Fernandes Gonçalves`
 * Data da leitura: `05/10/2026`
 
 ## Fichamento
